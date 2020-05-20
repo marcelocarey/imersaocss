@@ -33,8 +33,9 @@ body {
   .site-subtitle {
     color: White;
     text-align: center;
+    filter: drop-shadow(2px 2px 4px #2b2b2b);
   }
-  
+     
   .site-subtitle {
     font-style: italic;
   }
